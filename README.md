@@ -69,12 +69,13 @@ calculator-pro/
 ```
 index.html
 ```
-live Server:https://pawanpushkar.github.io/Calculator-App/
+
 
 OR (recommended)
 
 Use **Live Server** in VS Code for better experience.
 
+live Server:https://pawanpushkar.github.io/Calculator-App/
 ---
 
 ## 📸 Preview
